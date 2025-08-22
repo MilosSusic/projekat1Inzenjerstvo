@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <ocjenaFilma>9</ocjenaFilma>
+    <nazivFilma>Zodiac</nazivFilma>
+    <datumDodavanja>2025-07-23T17:26:43.65934+02:00</datumDodavanja>
+    <OcjenaFilma>9</OcjenaFilma>
+    <NazivFilma>Zodiac</NazivFilma>
+    <DatumDodavanja>2025-07-23T17:26:43.65934+02:00</DatumDodavanja>
+    <Slika>C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\SLIKE\zodiac.jpg</Slika>
+    <Fajl>Zodiac.rtf</Fajl>
+  </Film>
+  <Film>
+    <ocjenaFilma>8</ocjenaFilma>
+    <nazivFilma>Seven</nazivFilma>
+    <datumDodavanja>2025-07-23T17:29:17.4955389+02:00</datumDodavanja>
+    <OcjenaFilma>8</OcjenaFilma>
+    <NazivFilma>Seven</NazivFilma>
+    <DatumDodavanja>2025-07-23T17:29:17.4955389+02:00</DatumDodavanja>
+    <Slika>C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\SLIKE\seven.jpg</Slika>
+    <Fajl>Seven.rtf</Fajl>
+  </Film>
+  <Film>
+    <ocjenaFilma>8</ocjenaFilma>
+    <nazivFilma>GoodFellas</nazivFilma>
+    <datumDodavanja>2025-07-23T17:31:56.0810889+02:00</datumDodavanja>
+    <OcjenaFilma>8</OcjenaFilma>
+    <NazivFilma>GoodFellas</NazivFilma>
+    <DatumDodavanja>2025-07-23T17:31:56.0810889+02:00</DatumDodavanja>
+    <Slika>C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\SLIKE\GoodFellas.jpg</Slika>
+    <Fajl>GoodFellas.rtf</Fajl>
+  </Film>
+  <Film>
+    <ocjenaFilma>10</ocjenaFilma>
+    <nazivFilma>Wind River</nazivFilma>
+    <datumDodavanja>2025-07-23T17:33:27.6835359+02:00</datumDodavanja>
+    <OcjenaFilma>10</OcjenaFilma>
+    <NazivFilma>Wind River</NazivFilma>
+    <DatumDodavanja>2025-07-23T17:33:27.6835359+02:00</DatumDodavanja>
+    <Slika>C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\SLIKE\WindRiver.jpg</Slika>
+    <Fajl>Wind River.rtf</Fajl>
+  </Film>
+</ArrayOfFilm>

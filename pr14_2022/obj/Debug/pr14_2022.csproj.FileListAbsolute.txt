@@ -1,0 +1,189 @@
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.exe.config
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.exe
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Logovanje.g.cs
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.cache
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.lref
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Logovanje.baml
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.g.resources
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.Properties.Resources.resources
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.exe
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Dodavanje.g.cs
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Dodavanje.baml
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Izmjena.g.cs
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Izmjena.baml
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\DetaljniPrikazFilm.g.cs
+C:\Users\User\Desktop\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\DetaljniPrikazFilm.baml
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.exe.config
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.exe
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\DetaljniPrikazFilm.g.cs
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Dodavanje.g.cs
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Izmjena.g.cs
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Logovanje.g.cs
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\App.g.cs
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.cache
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.lref
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\DetaljniPrikazFilm.baml
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Dodavanje.baml
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Izmjena.baml
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Logovanje.baml
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.g.resources
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.Properties.Resources.resources
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.exe
+C:\Users\User\Desktop\TEMPLATE1\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.exe.config
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.exe
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\DetaljniPrikazFilm.g.cs
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Dodavanje.g.cs
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Izmjena.g.cs
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Logovanje.g.cs
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\App.g.cs
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.cache
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.lref
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\DetaljniPrikazFilm.baml
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Dodavanje.baml
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Izmjena.baml
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Logovanje.baml
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.g.resources
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.Properties.Resources.resources
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.exe
+C:\Users\User\Desktop\TEMPLATE2\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.exe.config
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.exe
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\DetaljniPrikazFilm.g.cs
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Dodavanje.g.cs
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Izmjena.g.cs
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Logovanje.g.cs
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\App.g.cs
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.cache
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.lref
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\DetaljniPrikazFilm.baml
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Dodavanje.baml
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Izmjena.baml
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\Logovanje.baml
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.g.resources
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.Properties.Resources.resources
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.exe
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\Notification.Wpf.dll
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\Notification.Wpf.pdb
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\bin\Debug\Notification.Wpf.xml
+C:\Users\User\Desktop\DEFINITIVNI PROJEKAT\MOJ PROJEKAT NOVI\pr14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.Up2Date
+C:\Users\User\Desktop\PR14_2022\pr14_2022\bin\Debug\pr14_2022.exe.config
+C:\Users\User\Desktop\PR14_2022\pr14_2022\bin\Debug\pr14_2022.exe
+C:\Users\User\Desktop\PR14_2022\pr14_2022\bin\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\PR14_2022\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\PR14_2022\pr14_2022\bin\Debug\Notification.Wpf.dll
+C:\Users\User\Desktop\PR14_2022\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\PR14_2022\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\PR14_2022\pr14_2022\bin\Debug\Notification.Wpf.pdb
+C:\Users\User\Desktop\PR14_2022\pr14_2022\bin\Debug\Notification.Wpf.xml
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\DetaljniPrikazFilm.g.cs
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\Dodavanje.g.cs
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\Izmjena.g.cs
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\Logovanje.g.cs
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\App.g.cs
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.cache
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.lref
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\DetaljniPrikazFilm.baml
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\Dodavanje.baml
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\Izmjena.baml
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\Logovanje.baml
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\pr14_2022.g.resources
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\pr14_2022.Properties.Resources.resources
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\pr14_2022.csproj.Up2Date
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\pr14_2022.exe
+C:\Users\User\Desktop\PR14_2022\pr14_2022\obj\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\bin\Debug\pr14_2022.exe.config
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\bin\Debug\pr14_2022.exe
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\bin\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\bin\Debug\Notification.Wpf.dll
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\bin\Debug\Notification.Wpf.pdb
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\bin\Debug\Notification.Wpf.xml
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\DetaljniPrikazFilm.g.cs
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\Dodavanje.g.cs
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\Izmjena.g.cs
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\Logovanje.g.cs
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\App.g.cs
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.cache
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.lref
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\DetaljniPrikazFilm.baml
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\Dodavanje.baml
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\Izmjena.baml
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\Logovanje.baml
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.g.resources
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.Properties.Resources.resources
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.csproj.Up2Date
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.exe
+C:\Users\User\Desktop\PR14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\bin\Debug\pr14_2022.exe.config
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\bin\Debug\pr14_2022.exe
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\bin\Debug\pr14_2022.pdb
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\bin\Debug\Notification.Wpf.dll
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\bin\Debug\Notification.Wpf.pdb
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\bin\Debug\Notification.Wpf.xml
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\DetaljniPrikazFilm.g.cs
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\Dodavanje.g.cs
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\Izmjena.g.cs
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\Logovanje.g.cs
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\App.g.cs
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.cache
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022_MarkupCompile.lref
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\DetaljniPrikazFilm.baml
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\Dodavanje.baml
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\Izmjena.baml
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\Logovanje.baml
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.g.resources
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.Properties.Resources.resources
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.csproj.Up2Date
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.exe
+C:\Users\User\Desktop\PR_14_2022_Milos_Susic\pr14_2022\obj\Debug\pr14_2022.pdb

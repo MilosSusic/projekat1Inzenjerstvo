@@ -1,0 +1,159 @@
+﻿<Window x:Class="pr14_2022.Logovanje"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:notifications="clr-namespace:Notification.Wpf.Controls;assembly=Notification.Wpf"
+        xmlns:local="clr-namespace:pr14_2022"
+        mc:Ignorable="d"
+        AllowsTransparency="True"  WindowStyle="None"  Background="Transparent" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    <Grid>
+        <notifications:NotificationArea
+         x:Name="WindowNotificationArea"
+        Panel.ZIndex="1000"
+        MaxItems="3"
+        Position="TopRight"/>
+        <Border >
+            <Border.Background>
+                <ImageBrush ImageSource="/Slike/Pozadina.jpg" Stretch="UniformToFill"/>
+            </Border.Background>
+            <Border  Width="970"  CornerRadius="150" Canvas.Left="20" Canvas.Top="20" BorderThickness="2" BorderBrush="#FFD700" Opacity="0.95" Background="Transparent">
+
+               
+
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Row="0"
+                Text="Prijava"
+                FontFamily="Montserrat"
+                FontSize="22"
+                FontWeight="Bold"
+                Foreground="#FFFF33"
+                HorizontalAlignment="Center"
+                Margin="0 20 0 15" />
+
+                    <TextBlock Grid.Row="1"
+                Text="Unesite podatke za prijavu kao admin ili posetilac sajta kriminalističkih filmova."
+                FontFamily="Montserrat"
+                FontSize="13"
+                Foreground="#FFF176"
+                TextWrapping="Wrap"
+                TextAlignment="Center"
+                Margin="0 0 0 25" />
+
+                    <TextBlock Grid.Row="2"
+                Text="Korisničko ime:"
+                FontFamily="Montserrat"
+                FontSize="15"
+                Foreground="#FFEB3B"
+                Margin="0 0 0 5" />
+
+                    <TextBox Grid.Row="3" 
+                   Margin="0 0 400 0"
+                x:Name="textBoxIme"
+                FontFamily="Montserrat"
+                FontSize="14"
+                Foreground="Black"
+                Background="White"
+                CaretBrush="Black"
+                BorderBrush="Gray"
+                BorderThickness="2"
+                Height="30"
+                VerticalContentAlignment="Center"
+                Padding="10 0"
+                GotFocus="textBoxIme_GotFocus"
+                LostFocus="textBoxIme_LostFocus"
+                Text="admin" />
+
+                    <Label Grid.Row="4"
+                x:Name="labelImeGreska"
+                FontFamily="Montserrat"
+                FontSize="13"
+                Foreground="#FF5252"
+                Height="24"
+                VerticalContentAlignment="Center"
+                Margin="0 3 0 0" />
+
+                    <TextBlock Grid.Row="5"
+                         
+                Text="Šifra:"
+                FontFamily="Montserrat"
+                FontSize="15"
+                Foreground="#FFEB3B"
+                Margin="0 20 0 5" />
+
+                    <PasswordBox Grid.Row="6" Margin="0 0 400 0"
+                
+                x:Name="passwordBoxSifra"
+               FontFamily="Montserrat"
+                 FontSize="14"
+                 Foreground="Black"
+                 Background="White"
+                 CaretBrush="Black"
+                 BorderThickness="2"
+                 BorderBrush="DarkGray"
+                 Height="30"
+                 VerticalContentAlignment="Center"
+                Padding="10 0"
+                GotFocus="passwordBoxSifra_GotFocus"
+                LostFocus="passwordBoxSifra_LostFocus"
+                Password="admin123" />
+
+                    <Label Grid.Row="7"
+                x:Name="labelSifraGreska"
+                FontFamily="Montserrat"
+                FontSize="13"
+                Foreground="#FF5252"
+                Height="24"
+                VerticalContentAlignment="Center"
+                Margin="0 3 0 0" />
+
+                    <StackPanel Grid.Row="8"
+                Orientation="Horizontal"
+                HorizontalAlignment="Center"
+                Margin="0 25 0 0">
+                        <Button x:Name="btnPrijava"
+                    Content="Prijava"
+                    FontFamily="Montserrat"
+                    FontSize="14"
+                    Foreground="Black"
+                    Cursor="Hand"
+                    BorderThickness="0"
+                    Width="120"
+                    Height="38"
+                    Click="btnPrijava_Click"
+                    Background="#FFEB3B"
+                    Margin="0,0,20,0" />
+
+                        <Button x:Name="btnIzlaz"
+                    Content="Izlaz"
+                    FontFamily="Montserrat"
+                    FontSize="14"
+                    Foreground="Black"
+                    Cursor="Hand"
+                    BorderThickness="0"
+                    Width="120"
+                    Height="38"
+                    Click="btnIzlaz_Click"
+                    Background="#FFEB3B" />
+                    </StackPanel>
+                </Grid>
+            </Border> 
+        </Border>
+    </Grid>
+</Window>

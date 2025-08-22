@@ -1,0 +1,221 @@
+﻿<Window x:Class="pr14_2022.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pr14_2022"
+        mc:Ignorable="d"
+         Height="600" Width="1000" Closing="Window_Closing" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    <Canvas Width="1300" Height="800">
+
+        <!-- POZADINSKA SLIKA ISPOD SVIH -->
+        <Image
+          Source="/Slike/Pozadina1.jpg"
+          Stretch="UniformToFill"
+          Canvas.Left="0"
+          Canvas.Top="0"
+          Width="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=Canvas}}"
+          Height="{Binding ActualHeight, RelativeSource={RelativeSource AncestorType=Canvas}}"
+          Panel.ZIndex="0" />
+        <Grid Canvas.Left="10" Canvas.Top="10">
+            <!--Dodaj-->
+            <Button x:Name="btnDodaj" 
+                  Content="Dodaj film"  
+                  Click="btnDodaj_Click" 
+                  Canvas.Left="102" 
+                  Canvas.Top="473" 
+                  FontSize="25"
+                  FontFamily="Montserrat"
+                  Cursor="Hand" 
+                  Width="200" Height="45" 
+                  Margin="610,466,126,44"
+                  Background="Yellow"
+                  BorderThickness="0">
+                 
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" >
+                            <Setter.Value>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="SkyBlue"/>
+                                    <GradientStop Color="SkyBlue" Offset="5"/>
+                                </LinearGradientBrush>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#278BEF"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="200" 
+                                Height="40" 
+                                CornerRadius="9"
+                                Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+
+            </Button>
+            <!--Zatvori-->
+            <Button x:Name="btnZatvori" 
+                  Content="Zatvori prozor" 
+                  Click="btnZatvori_Click" 
+                  Canvas.Left="606" 
+                  Canvas.Top="473" 
+                  FontSize="25"
+                  Background="Yellow"
+                  FontFamily="Montserrat"
+                  Cursor="Hand" 
+                  Width="200" Height="45" 
+                  Margin="74,466,662,44">
+
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" >
+                            <Setter.Value>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="SkyBlue"/>
+                                    <GradientStop Color="SkyBlue" Offset="5"/>
+                                </LinearGradientBrush>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#278BEF"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="200" Height="40" CornerRadius="9" Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <!--Obrisi-->
+            <Button x:Name="btnObrisi" 
+                  Content="Obriši" 
+                  Click="btnObrisi_Click" 
+                  HorizontalAlignment="Left" 
+                  VerticalAlignment="Top" 
+                  Canvas.Left="606" 
+                  Canvas.Top="473" 
+                  Margin="338,466,0,0" 
+                  FontSize="25"
+                  FontFamily="Montserrat"
+                  Background="Yellow"
+                  Cursor="Hand" 
+                  Width="200" Height="45">
+
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" >
+                            <Setter.Value>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="SkyBlue"/>
+                                    <GradientStop Color="SkyBlue" Offset="5"/>
+                                </LinearGradientBrush>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#278BEF"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="200" Height="40" CornerRadius="9" Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <!--Tabelarni prikaz-->
+            <DataGrid x:Name="dataGridFilmovi" ItemsSource="{Binding Films}"
+                    CanUserResizeRows="True"
+                    IsReadOnly="True"
+                    SelectionMode="Extended"
+                    AutoGenerateColumns="False"  
+                    BorderBrush="Black"
+                    BorderThickness="2"
+                    ColumnHeaderHeight="30"
+                    Width="790"
+                    Height="290"
+                    Canvas.Left="232"
+                    Canvas.Top="148"
+                    CanUserResizeColumns="False"
+                    CanUserReorderColumns="False"
+                    Margin="54,148,0,117"
+                    HorizontalAlignment="Left"
+                    Background="Black" 
+                    SelectionChanged="dataGridFilmovi_SelectionChanged">
+
+                <!--Kolone u tabelarnom prikazu-->
+                <!--CheckBox-->
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Header="CheckBox" Width="*" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox VerticalAlignment="Center" HorizontalAlignment="Center"  MouseEnter="CheckBox_MouseEnter"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <!--Hyperlink-->
+                    <DataGridTemplateColumn Header="Hiperlink" Width="*"  x:Name="hiperlink" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" >
+                                  <Hyperlink x:Name="Hyperlink" Click="Hyperlink_Click" Foreground="Blue">Dodatna opcija</Hyperlink>
+                                </TextBlock>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <!--Slika-->
+                    <DataGridTemplateColumn Header="Slika" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image x:Name="img" Source="{Binding Slika}" Height="40"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <!--Datum-->
+                    <DataGridTextColumn  
+                        Header="Datum" 
+                        Width="*" 
+                        CanUserResize="False" 
+                        FontSize="10" 
+                        Binding="{Binding DatumDodavanja}"/>
+                    
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!--Naslov-->
+            <Label Content="KRIMINALISTICKI FILMOVI" 
+                 FontWeight="Bold" 
+                 HorizontalAlignment="Left" 
+                 Margin="54,70,0,0" 
+                 VerticalAlignment="Top" 
+                 FontSize="50" 
+                 FontStyle="Italic" 
+                 Background="Black" 
+                 Foreground="Yellow" Width="790"
+                 HorizontalContentAlignment="Center"/>
+        </Grid>
+    </Canvas>
+</Window>
